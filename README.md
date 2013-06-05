@@ -10,7 +10,7 @@
 * Clean Code in Android Apps: [Evaluatie](http://bit.ly/xc_clean) - Nog geen slides beschikbaar
 * A DSL for generating mobile application: [Evaluatie](http://bit.ly/xc_a) - Nog geen slides beschikbaar
 * Reanimate your users on iOS: [Evaluatie](http://bit.ly/xc_reanimate) - Nog geen slides beschikbaar
-* Akka in action: [Evaluatie](http://bit.ly/xc_akka) - [Slides](http://www.slideshare.net/raymondroestenburg/akka-inaction-22477022)
+* Akka in action: [Evaluatie](http://bit.ly/xc_akka) - [Slides](http://www.slideshare.net/raymondroestenburg/akka-inaction-22477022) - [Source code](https://github.com/RayRoestenburg/xebicon)
 * Is Java 8 a Scala killer?: [Evaluatie](http://bit.ly/xc_is) - Nog geen slides beschikbaar
 * Large-scale single-page web application development experiences: [Evaluatie](http://bit.ly/xc_large) - Nog geen slides beschikbaar
 * Dealing with People You Can't Stand: [Evaluatie](http://bit.ly/xc_dealing) - [Slides](https://github.com/xebicon/2013/raw/master/Dealing%20with%20People%20You%20Can't%20Stand%20-%20XebiCon%202013.pdf)
