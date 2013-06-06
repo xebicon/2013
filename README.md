@@ -111,6 +111,7 @@ Jarl Meijer
 * Nog geen slides beschikbaar
 
 ### Improved engines require better fuel - People fuel Agile organizations
+Marnix van Wendel de Joode & Erik van der Velde
 
 * [Evaluation](http://bit.ly/xc_improved)
 * [Slides](https://github.com/xebicon/2013/raw/master/Improved%20Engines%20Require%20Better%20Fuel%20-%20XebiCon%202013.pdf)
