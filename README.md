@@ -83,7 +83,8 @@ Jeroen Leenarts
 Raymond Roestenburg
 
 * [Evaluation](http://bit.ly/xc_akka) 
-* [Slides](http://www.slideshare.net/raymondroestenburg/akka-inaction-22477022) - [Source code](https://github.com/RayRoestenburg/xebicon)
+* [Slides](http://www.slideshare.net/raymondroestenburg/akka-inaction-22477022)
+* [Source code](https://github.com/RayRoestenburg/xebicon)
 
 ### Is Java 8 a Scala killer?
 Urs Peter
