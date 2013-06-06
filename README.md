@@ -23,7 +23,6 @@ Joris Bontje
 
 * [Evaluation](http://bit.ly/xc_building)
 * [Slides](https://github.com/xebicon/2013/raw/master/Building%20a%20Big%20Data%20Warehouse%20-%20XebiCon%202013.pdf)
-*
 
 ### Tot over je oren in technical debt; Wat nu?
 Hans-Jurgen Jacobs & Rogier Selie
