@@ -90,7 +90,7 @@ Raymond Roestenburg
 Urs Peter
 
 * [Evaluation](http://bit.ly/xc_is)
-* [Slides](https://github.com/xebicon/2013/raw/master/Is%20Java%208%20a%20Scala%20Killer%20-%20XebiCon%202013.pdf)
+* [Slides](http://www.slideshare.net/slideshow/embed_code/22755586)
  
 ### Large-scale single-page web application development experiences
 Vincent Lussenburg & Freek Wielstra
@@ -109,7 +109,7 @@ Nicole Belilos
 ### Excellent Product Ownership: EPO boosts performance
 Jarl Meijer
 * [Evaluation](http://bit.ly/xc_excellent) 
-* Nog geen slides beschikbaar
+* [Slides](https://github.com/xebicon/2013/raw/master/EPO%20is%20prestatieverbeterend%20-%20XebiCon%202013.pdf)
 
 ### Improved engines require better fuel - People fuel Agile organizations
 Marnix van Wendel de Joode & Erik van der Velde
